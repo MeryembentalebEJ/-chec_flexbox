@@ -1,0 +1,26 @@
+.echec{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 200px;
+    width: 100%;
+ 
+}
+.piece{
+    flex-basis: 20%;
+}
+ 
+
+
+ 
+   
+
+
+
+     
+    
+    
+
+
+
